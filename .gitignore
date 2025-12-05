@@ -1,0 +1,10 @@
+#os
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+#vscode
+.vscode/
+#temp
+*.log
+*.tmp
+*~
